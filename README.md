@@ -1,10 +1,3 @@
-This repository contains a smart contract for a simple Ethereum-based arbitrage bot that takes advantage of price differences between Uniswap and Sushiswap decentralized exchanges. The contract is written in Solidity and uses the UniswapV2 and SushiSwap Router interfaces. 
-
-
-
-
-
-
 # 🤖 AI-Trading-Bot
 
 This repository contains a smart contract-based trading bot for **Ethereum-based tokens**, designed to interact with decentralized exchanges (DEXs) such as **Uniswap** and **GMX**. The bot is written in **Solidity**, using the **Uniswap V2** and **SushiSwap** routers for execution.
